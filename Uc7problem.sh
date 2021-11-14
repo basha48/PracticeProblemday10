@@ -6,7 +6,7 @@ read -p "enter second value :" b
 
 read -p "enter third value :" c
 
-declare -A hello
+
 
 declare -A Uc6dictonary
 
